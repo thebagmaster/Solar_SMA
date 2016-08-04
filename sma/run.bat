@@ -1,0 +1,1 @@
+C:\xampp\sma\php\php-win -f "c:\xampp\sma\smawde.php"

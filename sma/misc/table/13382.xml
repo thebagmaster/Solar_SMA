@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<WebBox xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Mean_100.xsd">
+  <Info>
+    <Created>2010-06-29T11:30:32</Created>
+    <Culture>en-US</Culture>
+  </Info>
+<MeanPublic>
+  <Key>SENS0700:13382:ExlSolIrr</Key>
+  <First>0</First>
+  <Last>0</Last>
+  <Min>0</Min>
+  <Max>0</Max>
+  <Mean>0</Mean>
+  <Base>12</Base>
+  <Period>900</Period>
+  <TimeStamp>2010-06-29T11:30:31</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>SENS0700:13382:IntSolIrr</Key>
+  <First>307</First>
+  <Last>304</Last>
+  <Min>304</Min>
+  <Max>315</Max>
+  <Mean>309.166667</Mean>
+  <Base>12</Base>
+  <Period>900</Period>
+  <TimeStamp>2010-06-29T11:30:31</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>SENS0700:13382:SMA-h-On</Key>
+  <First>153.0425122434</First>
+  <Last>153.0733455792</Last>
+  <Min>153.0425122434</Min>
+  <Max>153.0733455792</Max>
+  <Mean>153.058276</Mean>
+  <Base>12</Base>
+  <Period>900</Period>
+  <TimeStamp>2010-06-29T11:30:31</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>SENS0700:13382:TmpAmb C</Key>
+  <First>23.63</First>
+  <Last>23.53</Last>
+  <Min>22.33</Min>
+  <Max>24.13</Max>
+  <Mean>23.271667</Mean>
+  <Base>12</Base>
+  <Period>900</Period>
+  <TimeStamp>2010-06-29T11:30:31</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>SENS0700:13382:TmpMdul C</Key>
+  <First>40.73</First>
+  <Last>40.43</Last>
+  <Min>40.43</Min>
+  <Max>40.73</Max>
+  <Mean>40.596667</Mean>
+  <Base>12</Base>
+  <Period>900</Period>
+  <TimeStamp>2010-06-29T11:30:31</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>SENS0700:13382:WindVel m/s</Key>
+  <First>0.0</First>
+  <Last>0.0</Last>
+  <Min>0.0</Min>
+  <Max>1.4</Max>
+  <Mean>0.666667</Mean>
+  <Base>12</Base>
+  <Period>900</Period>
+  <TimeStamp>2010-06-29T11:30:31</TimeStamp>
+</MeanPublic>
+
+</WebBox>

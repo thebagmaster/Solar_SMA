@@ -1,0 +1,1856 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<WebBox xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Mean_100.xsd">
+  <Info>
+    <Created>2014-07-28T17:05:49</Created>
+    <Culture>en-US</Culture>
+  </Info>
+<MeanPublic>
+  <Key>SENS0722:12440:ExlSolIrr</Key>
+  <First>0</First>
+  <Last>0</Last>
+  <Min>0</Min>
+  <Max>0</Max>
+  <Mean>0</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>SENS0722:12440:IntSolIrr</Key>
+  <First>553</First>
+  <Last>226</Last>
+  <Min>161</Min>
+  <Max>553</Max>
+  <Mean>244.166667</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>SENS0722:12440:SMA-h-On</Key>
+  <First>14993.3925883602</First>
+  <Last>14993.4698105886</Last>
+  <Min>14993.3925883602</Min>
+  <Max>14993.4698105886</Max>
+  <Mean>14993.430721</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>SENS0722:12440:TmpAmb F</Key>
+  <First>-327.67</First>
+  <Last>-327.67</Last>
+  <Min>-327.67</Min>
+  <Max>-327.67</Max>
+  <Mean>-327.67</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>SENS0722:12440:TmpMdul F</Key>
+  <First>117.33</First>
+  <Last>108.83</Last>
+  <Min>108.83</Min>
+  <Max>117.33</Max>
+  <Mean>114.013333</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>SENS0722:12440:WindVel mph</Key>
+  <First>0.0</First>
+  <Last>0.0</Last>
+  <Min>0.0</Min>
+  <Max>0.0</Max>
+  <Mean>0.0</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002143210:Backup State</Key>
+  <First>0</First>
+  <Last>0</Last>
+  <Min>0</Min>
+  <Max>0</Max>
+  <Mean>0</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002143210:Balancer</Key>
+  <First>0</First>
+  <Last>0</Last>
+  <Min>0</Min>
+  <Max>0</Max>
+  <Mean>0</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002143210:CO2 saved</Key>
+  <First>29811.042</First>
+  <Last>29811.248</Last>
+  <Min>29811.042</Min>
+  <Max>29811.248</Max>
+  <Mean>29811.160778</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002143210:Error</Key>
+  <First>0</First>
+  <Last>0</Last>
+  <Min>0</Min>
+  <Max>0</Max>
+  <Mean>0</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002143210:E-Total</Key>
+  <First>17535.894</First>
+  <Last>17536.023</Last>
+  <Min>17535.894</Min>
+  <Max>17536.023</Max>
+  <Mean>17535.971611</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002143210:Event-Cnt</Key>
+  <First>24</First>
+  <Last>24</Last>
+  <Min>24</Min>
+  <Max>24</Max>
+  <Mean>24</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002143210:Fac</Key>
+  <First>59.990</First>
+  <Last>60.000</Last>
+  <Min>59.970</Min>
+  <Max>60.000</Max>
+  <Mean>59.989444</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002143210:Grid Type</Key>
+  <First>2</First>
+  <Last>2</Last>
+  <Min>2</Min>
+  <Max>2</Max>
+  <Mean>2</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002143210:h-On</Key>
+  <First>7835.2103490390</First>
+  <Last>7835.2884046008</Last>
+  <Min>7835.2103490390</Min>
+  <Max>7835.2884046008</Max>
+  <Mean>7835.248898</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002143210:h-Total</Key>
+  <First>7532.7322692852</First>
+  <Last>7532.8103248470</Last>
+  <Min>7532.7322692852</Min>
+  <Max>7532.8103248470</Max>
+  <Mean>7532.770819</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002143210:Iac</Key>
+  <First>19.114</First>
+  <Last>6.528</Last>
+  <Min>5.038</Min>
+  <Max>19.114</Max>
+  <Mean>8.016778</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002143210:I-dif</Key>
+  <First>97</First>
+  <Last>97</Last>
+  <Min>97</Min>
+  <Max>97</Max>
+  <Mean>97</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002143210:Ipv</Key>
+  <First>14.287</First>
+  <Last>4.996</Last>
+  <Min>3.815</Min>
+  <Max>14.287</Max>
+  <Mean>6.078667</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002143210:Max Temperature</Key>
+  <First>81.1</First>
+  <Last>81.1</Last>
+  <Min>81.1</Min>
+  <Max>81.1</Max>
+  <Mean>81.1</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002143210:Max Vpv</Key>
+  <First>415</First>
+  <Last>415</Last>
+  <Min>415</Min>
+  <Max>415</Max>
+  <Mean>415</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002143210:Mode</Key>
+  <First>7</First>
+  <Last>7</Last>
+  <Min>7</Min>
+  <Max>7</Max>
+  <Mean>7</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002143210:Pac</Key>
+  <First>4123</First>
+  <Last>1397</Last>
+  <Min>1077</Min>
+  <Max>4123</Max>
+  <Mean>1720.722222</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002143210:Power On</Key>
+  <First>11357</First>
+  <Last>11357</Last>
+  <Min>11357</Min>
+  <Max>11357</Max>
+  <Mean>11357</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002143210:Serial Number</Key>
+  <First>2002143210</First>
+  <Last>2002143210</Last>
+  <Min>2002143210</Min>
+  <Max>2002143210</Max>
+  <Mean>2002143210</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002143210:Temperature</Key>
+  <First>66.6</First>
+  <Last>57.2</Last>
+  <Min>57.2</Min>
+  <Max>66.6</Max>
+  <Mean>60.888889</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002143210:Vac</Key>
+  <First>215.7</First>
+  <Last>214.1</Last>
+  <Min>213.7</Min>
+  <Max>215.8</Max>
+  <Mean>214.222222</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002143210:VacL1</Key>
+  <First>125.6</First>
+  <Last>124.7</Last>
+  <Min>124.5</Min>
+  <Max>125.7</Max>
+  <Mean>124.833333</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002143210:VacL2</Key>
+  <First>123.4</First>
+  <Last>122.4</Last>
+  <Min>122.1</Min>
+  <Max>123.4</Max>
+  <Mean>122.45</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002143210:Vfan</Key>
+  <First>0.000</First>
+  <Last>0.000</Last>
+  <Min>0.000</Min>
+  <Max>0.000</Max>
+  <Mean>0.000</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002143210:Vpv</Key>
+  <First>300</First>
+  <Last>292</Last>
+  <Min>288</Min>
+  <Max>300</Max>
+  <Mean>295.333333</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002143210:Vpv-_PE</Key>
+  <First>0</First>
+  <Last>0</Last>
+  <Min>0</Min>
+  <Max>0</Max>
+  <Mean>0</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002143210:Vpv-Setpoint</Key>
+  <First>300</First>
+  <Last>293</Last>
+  <Min>289</Min>
+  <Max>300</Max>
+  <Mean>295.777778</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002143257:Backup State</Key>
+  <First>0</First>
+  <Last>0</Last>
+  <Min>0</Min>
+  <Max>0</Max>
+  <Mean>0</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002143257:Balancer</Key>
+  <First>0</First>
+  <Last>0</Last>
+  <Min>0</Min>
+  <Max>0</Max>
+  <Mean>0</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002143257:CO2 saved</Key>
+  <First>29834.776</First>
+  <Last>29834.994</Last>
+  <Min>29834.776</Min>
+  <Max>29834.994</Max>
+  <Mean>29834.906444</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002143257:Error</Key>
+  <First>0</First>
+  <Last>0</Last>
+  <Min>0</Min>
+  <Max>0</Max>
+  <Mean>0</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002143257:E-Total</Key>
+  <First>17549.867</First>
+  <Last>17549.996</Last>
+  <Min>17549.867</Min>
+  <Max>17549.996</Max>
+  <Mean>17549.943944</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002143257:Event-Cnt</Key>
+  <First>22</First>
+  <Last>22</Last>
+  <Min>22</Min>
+  <Max>22</Max>
+  <Mean>22</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002143257:Fac</Key>
+  <First>59.980</First>
+  <Last>60.000</Last>
+  <Min>59.970</Min>
+  <Max>60.000</Max>
+  <Mean>59.988333</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002143257:Grid Type</Key>
+  <First>2</First>
+  <Last>2</Last>
+  <Min>2</Min>
+  <Max>2</Max>
+  <Mean>2</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002143257:h-On</Key>
+  <First>7822.6303480326</First>
+  <Last>7822.7084035944</Last>
+  <Min>7822.6303480326</Min>
+  <Max>7822.7084035944</Max>
+  <Mean>7822.668774</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002143257:h-Total</Key>
+  <First>7524.2742130530</First>
+  <Last>7524.3522686148</Last>
+  <Min>7524.2742130530</Min>
+  <Max>7524.3522686148</Max>
+  <Mean>7524.312639</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002143257:Iac</Key>
+  <First>19.142</First>
+  <Last>6.598</Last>
+  <Min>5.052</Min>
+  <Max>19.142</Max>
+  <Mean>7.989444</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002143257:I-dif</Key>
+  <First>87</First>
+  <Last>97</Last>
+  <Min>87</Min>
+  <Max>97</Max>
+  <Mean>92</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002143257:Ipv</Key>
+  <First>14.206</First>
+  <Last>4.901</Last>
+  <Min>3.775</Min>
+  <Max>14.206</Max>
+  <Mean>5.964944</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002143257:Max Temperature</Key>
+  <First>77.9</First>
+  <Last>77.9</Last>
+  <Min>77.9</Min>
+  <Max>77.9</Max>
+  <Mean>77.9</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002143257:Max Vpv</Key>
+  <First>414</First>
+  <Last>414</Last>
+  <Min>414</Min>
+  <Max>414</Max>
+  <Mean>414</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002143257:Mode</Key>
+  <First>7</First>
+  <Last>7</Last>
+  <Min>7</Min>
+  <Max>7</Max>
+  <Mean>7</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002143257:Pac</Key>
+  <First>4113</First>
+  <Last>1407</Last>
+  <Min>1076</Min>
+  <Max>4113</Max>
+  <Mean>1707.555556</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002143257:Power On</Key>
+  <First>10526</First>
+  <Last>10526</Last>
+  <Min>10526</Min>
+  <Max>10526</Max>
+  <Mean>10526</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002143257:Serial Number</Key>
+  <First>2002143257</First>
+  <Last>2002143257</Last>
+  <Min>2002143257</Min>
+  <Max>2002143257</Max>
+  <Mean>2002143257</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002143257:Temperature</Key>
+  <First>64.7</First>
+  <Last>55.3</Last>
+  <Min>55.3</Min>
+  <Max>64.7</Max>
+  <Mean>58.888889</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002143257:Vac</Key>
+  <First>214.9</First>
+  <Last>213.3</Last>
+  <Min>212.9</Min>
+  <Max>214.9</Max>
+  <Mean>213.35</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002143257:VacL1</Key>
+  <First>123.3</First>
+  <Last>122.4</Last>
+  <Min>122.1</Min>
+  <Max>123.3</Max>
+  <Mean>122.438889</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002143257:VacL2</Key>
+  <First>124.7</First>
+  <Last>123.8</Last>
+  <Min>123.5</Min>
+  <Max>124.7</Max>
+  <Mean>123.833333</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002143257:Vfan</Key>
+  <First>0.000</First>
+  <Last>0.000</Last>
+  <Min>0.000</Min>
+  <Max>0.000</Max>
+  <Mean>0.000</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002143257:Vpv</Key>
+  <First>301</First>
+  <Last>300</Last>
+  <Min>289</Min>
+  <Max>312</Max>
+  <Mean>298.333333</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002143257:Vpv-_PE</Key>
+  <First>0</First>
+  <Last>0</Last>
+  <Min>0</Min>
+  <Max>0</Max>
+  <Mean>0</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002143257:Vpv-Setpoint</Key>
+  <First>301</First>
+  <Last>301</Last>
+  <Min>289</Min>
+  <Max>313</Max>
+  <Mean>298.555556</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002143337:Backup State</Key>
+  <First>0</First>
+  <Last>0</Last>
+  <Min>0</Min>
+  <Max>0</Max>
+  <Mean>0</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002143337:Balancer</Key>
+  <First>0</First>
+  <Last>0</Last>
+  <Min>0</Min>
+  <Max>0</Max>
+  <Mean>0</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002143337:CO2 saved</Key>
+  <First>29803.870</First>
+  <Last>29804.074</Last>
+  <Min>29803.870</Min>
+  <Max>29804.074</Max>
+  <Mean>29803.986778</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002143337:Error</Key>
+  <First>0</First>
+  <Last>0</Last>
+  <Min>0</Min>
+  <Max>0</Max>
+  <Mean>0</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002143337:E-Total</Key>
+  <First>17531.672</First>
+  <Last>17531.802</Last>
+  <Min>17531.672</Min>
+  <Max>17531.802</Max>
+  <Mean>17531.750444</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002143337:Event-Cnt</Key>
+  <First>25</First>
+  <Last>25</Last>
+  <Min>25</Min>
+  <Max>25</Max>
+  <Mean>25</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002143337:Fac</Key>
+  <First>59.980</First>
+  <Last>60.000</Last>
+  <Min>59.970</Min>
+  <Max>60.000</Max>
+  <Mean>59.988333</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002143337:Grid Type</Key>
+  <First>2</First>
+  <Last>2</Last>
+  <Min>2</Min>
+  <Max>2</Max>
+  <Mean>2</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002143337:h-On</Key>
+  <First>7827.6500706564</First>
+  <Last>7827.7281262182</Last>
+  <Min>7827.6500706564</Min>
+  <Max>7827.7281262182</Max>
+  <Mean>7827.688666</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002143337:h-Total</Key>
+  <First>7513.6725455382</First>
+  <Last>7513.7506011000</Last>
+  <Min>7513.6725455382</Min>
+  <Max>7513.7506011000</Max>
+  <Mean>7513.711141</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002143337:Iac</Key>
+  <First>18.976</First>
+  <Last>6.520</Last>
+  <Min>5.040</Min>
+  <Max>18.976</Max>
+  <Mean>7.996</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002143337:I-dif</Key>
+  <First>87</First>
+  <Last>97</Last>
+  <Min>87</Min>
+  <Max>97</Max>
+  <Mean>95.888889</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002143337:Ipv</Key>
+  <First>13.830</First>
+  <Last>4.802</Last>
+  <Min>3.811</Min>
+  <Max>14.047</Max>
+  <Mean>6.010778</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002143337:Max Temperature</Key>
+  <First>78.6</First>
+  <Last>78.6</Last>
+  <Min>78.6</Min>
+  <Max>78.6</Max>
+  <Mean>78.6</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002143337:Max Vpv</Key>
+  <First>416</First>
+  <Last>416</Last>
+  <Min>416</Min>
+  <Max>416</Max>
+  <Mean>416</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002143337:Mode</Key>
+  <First>7</First>
+  <Last>7</Last>
+  <Min>7</Min>
+  <Max>7</Max>
+  <Mean>7</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002143337:Pac</Key>
+  <First>4122</First>
+  <Last>1405</Last>
+  <Min>1085</Min>
+  <Max>4122</Max>
+  <Mean>1727.944444</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002143337:Power On</Key>
+  <First>11725</First>
+  <Last>11725</Last>
+  <Min>11725</Min>
+  <Max>11725</Max>
+  <Mean>11725</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002143337:Serial Number</Key>
+  <First>2002143337</First>
+  <Last>2002143337</Last>
+  <Min>2002143337</Min>
+  <Max>2002143337</Max>
+  <Mean>2002143337</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002143337:Temperature</Key>
+  <First>66.6</First>
+  <Last>57.8</Last>
+  <Min>57.2</Min>
+  <Max>66.6</Max>
+  <Mean>61.022222</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002143337:Vac</Key>
+  <First>217.2</First>
+  <Last>215.5</Last>
+  <Min>215.2</Min>
+  <Max>217.3</Max>
+  <Mean>215.7</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002143337:VacL1</Key>
+  <First>124.3</First>
+  <Last>123.4</Last>
+  <Min>123.2</Min>
+  <Max>124.4</Max>
+  <Mean>123.472222</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002143337:VacL2</Key>
+  <First>126.5</First>
+  <Last>125.3</Last>
+  <Min>125.2</Min>
+  <Max>126.5</Max>
+  <Mean>125.561111</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002143337:Vfan</Key>
+  <First>0.000</First>
+  <Last>0.000</Last>
+  <Min>0.000</Min>
+  <Max>0.000</Max>
+  <Mean>0.000</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002143337:Vpv</Key>
+  <First>310</First>
+  <Last>306</Last>
+  <Min>291</Min>
+  <Max>310</Max>
+  <Mean>299.277778</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002143337:Vpv-_PE</Key>
+  <First>0</First>
+  <Last>0</Last>
+  <Min>0</Min>
+  <Max>0</Max>
+  <Mean>0</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002143337:Vpv-Setpoint</Key>
+  <First>310</First>
+  <Last>307</Last>
+  <Min>291</Min>
+  <Max>310</Max>
+  <Mean>299.333333</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002144138:Backup State</Key>
+  <First>0</First>
+  <Last>0</Last>
+  <Min>0</Min>
+  <Max>0</Max>
+  <Mean>0</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002144138:Balancer</Key>
+  <First>0</First>
+  <Last>0</Last>
+  <Min>0</Min>
+  <Max>0</Max>
+  <Mean>0</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002144138:CO2 saved</Key>
+  <First>29937.746</First>
+  <Last>29937.956</Last>
+  <Min>29937.746</Min>
+  <Max>29937.956</Max>
+  <Mean>29937.871111</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002144138:Error</Key>
+  <First>0</First>
+  <Last>0</Last>
+  <Min>0</Min>
+  <Max>0</Max>
+  <Mean>0</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002144138:E-Total</Key>
+  <First>17610.432</First>
+  <Last>17610.562</Last>
+  <Min>17610.432</Min>
+  <Max>17610.562</Max>
+  <Mean>17610.510056</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002144138:Event-Cnt</Key>
+  <First>23</First>
+  <Last>23</Last>
+  <Min>23</Min>
+  <Max>23</Max>
+  <Mean>23</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002144138:Fac</Key>
+  <First>59.990</First>
+  <Last>60.000</Last>
+  <Min>59.970</Min>
+  <Max>60.000</Max>
+  <Mean>59.988889</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002144138:Grid Type</Key>
+  <First>2</First>
+  <Last>2</Last>
+  <Min>2</Min>
+  <Max>2</Max>
+  <Mean>2</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002144138:h-On</Key>
+  <First>7827.6534039900</First>
+  <Last>7827.7317373296</Last>
+  <Min>7827.6534039900</Min>
+  <Max>7827.7317373296</Max>
+  <Mean>7827.692046</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002144138:h-Total</Key>
+  <First>7516.6267124412</First>
+  <Last>7516.7050457808</Last>
+  <Min>7516.6267124412</Min>
+  <Max>7516.7050457808</Max>
+  <Mean>7516.665354</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002144138:Iac</Key>
+  <First>19.092</First>
+  <Last>6.528</Last>
+  <Min>5.038</Min>
+  <Max>19.092</Max>
+  <Mean>7.992778</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002144138:I-dif</Key>
+  <First>97</First>
+  <Last>97</Last>
+  <Min>97</Min>
+  <Max>97</Max>
+  <Mean>97</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002144138:Ipv</Key>
+  <First>14.483</First>
+  <Last>4.872</Last>
+  <Min>3.836</Min>
+  <Max>14.483</Max>
+  <Mean>5.9735</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002144138:Max Temperature</Key>
+  <First>77.3</First>
+  <Last>77.3</Last>
+  <Min>77.3</Min>
+  <Max>77.3</Max>
+  <Mean>77.3</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002144138:Max Vpv</Key>
+  <First>408</First>
+  <Last>408</Last>
+  <Min>408</Min>
+  <Max>408</Max>
+  <Mean>408</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002144138:Mode</Key>
+  <First>7</First>
+  <Last>7</Last>
+  <Min>7</Min>
+  <Max>7</Max>
+  <Mean>7</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002144138:Pac</Key>
+  <First>4139</First>
+  <Last>1403</Last>
+  <Min>1083</Min>
+  <Max>4139</Max>
+  <Mean>1723.888889</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002144138:Power On</Key>
+  <First>10497</First>
+  <Last>10497</Last>
+  <Min>10497</Min>
+  <Max>10497</Max>
+  <Mean>10497</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002144138:Serial Number</Key>
+  <First>2002144138</First>
+  <Last>2002144138</Last>
+  <Min>2002144138</Min>
+  <Max>2002144138</Max>
+  <Mean>2002144138</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002144138:Temperature</Key>
+  <First>64.7</First>
+  <Last>55.3</Last>
+  <Min>55.3</Min>
+  <Max>64.7</Max>
+  <Mean>58.716667</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002144138:Vac</Key>
+  <First>216.8</First>
+  <Last>215.0</Last>
+  <Min>214.6</Min>
+  <Max>216.9</Max>
+  <Mean>215.277778</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002144138:VacL1</Key>
+  <First>126.6</First>
+  <Last>125.5</Last>
+  <Min>125.3</Min>
+  <Max>126.7</Max>
+  <Mean>125.755556</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002144138:VacL2</Key>
+  <First>123.8</First>
+  <Last>122.7</Last>
+  <Min>122.5</Min>
+  <Max>123.8</Max>
+  <Mean>122.766667</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002144138:Vfan</Key>
+  <First>0.000</First>
+  <Last>0.000</Last>
+  <Min>0.000</Min>
+  <Max>0.000</Max>
+  <Mean>0.000</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002144138:Vpv</Key>
+  <First>297</First>
+  <Last>301</Last>
+  <Min>289</Min>
+  <Max>313</Max>
+  <Mean>299.222222</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002144138:Vpv-_PE</Key>
+  <First>0</First>
+  <Last>0</Last>
+  <Min>0</Min>
+  <Max>0</Max>
+  <Mean>0</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002144138:Vpv-Setpoint</Key>
+  <First>297</First>
+  <Last>301</Last>
+  <Min>289</Min>
+  <Max>313</Max>
+  <Mean>299.333333</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002144187:Backup State</Key>
+  <First>0</First>
+  <Last>0</Last>
+  <Min>0</Min>
+  <Max>0</Max>
+  <Mean>0</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002144187:Balancer</Key>
+  <First>0</First>
+  <Last>0</Last>
+  <Min>0</Min>
+  <Max>0</Max>
+  <Mean>0</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002144187:CO2 saved</Key>
+  <First>29930.326</First>
+  <Last>29930.534</Last>
+  <Min>29930.326</Min>
+  <Max>29930.534</Max>
+  <Mean>29930.446444</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002144187:Error</Key>
+  <First>0</First>
+  <Last>0</Last>
+  <Min>0</Min>
+  <Max>0</Max>
+  <Mean>0</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002144187:E-Total</Key>
+  <First>17606.064</First>
+  <Last>17606.193</Last>
+  <Min>17606.064</Min>
+  <Max>17606.193</Max>
+  <Mean>17606.141056</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002144187:Event-Cnt</Key>
+  <First>26</First>
+  <Last>26</Last>
+  <Min>26</Min>
+  <Max>26</Max>
+  <Mean>26</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002144187:Fac</Key>
+  <First>59.990</First>
+  <Last>60.000</Last>
+  <Min>59.980</Min>
+  <Max>60.000</Max>
+  <Mean>59.990</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002144187:Grid Type</Key>
+  <First>2</First>
+  <Last>2</Last>
+  <Min>2</Min>
+  <Max>2</Max>
+  <Mean>2</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002144187:h-On</Key>
+  <First>7824.7156259772</First>
+  <Last>7824.7936815390</Last>
+  <Min>7824.7156259772</Min>
+  <Max>7824.7936815390</Max>
+  <Mean>7824.754175</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002144187:h-Total</Key>
+  <First>7524.2050463808</First>
+  <Last>7524.2831019426</Last>
+  <Min>7524.2050463808</Min>
+  <Max>7524.2831019426</Max>
+  <Mean>7524.243596</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002144187:Iac</Key>
+  <First>18.966</First>
+  <Last>6.508</Last>
+  <Min>4.990</Min>
+  <Max>18.966</Max>
+  <Mean>7.946</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002144187:I-dif</Key>
+  <First>97</First>
+  <Last>97</Last>
+  <Min>87</Min>
+  <Max>97</Max>
+  <Mean>96.444444</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002144187:Ipv</Key>
+  <First>14.159</First>
+  <Last>5.042</Last>
+  <Min>3.851</Min>
+  <Max>14.159</Max>
+  <Mean>6.016222</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002144187:Max Temperature</Key>
+  <First>80.4</First>
+  <Last>80.4</Last>
+  <Min>80.4</Min>
+  <Max>80.4</Max>
+  <Mean>80.4</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002144187:Max Vpv</Key>
+  <First>412</First>
+  <Last>412</Last>
+  <Min>412</Min>
+  <Max>412</Max>
+  <Mean>412</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002144187:Mode</Key>
+  <First>7</First>
+  <Last>7</Last>
+  <Min>7</Min>
+  <Max>7</Max>
+  <Mean>7</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002144187:Pac</Key>
+  <First>4100</First>
+  <Last>1396</Last>
+  <Min>1069</Min>
+  <Max>4100</Max>
+  <Mean>1708.833333</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002144187:Power On</Key>
+  <First>10087</First>
+  <Last>10087</Last>
+  <Min>10087</Min>
+  <Max>10087</Max>
+  <Mean>10087</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002144187:Serial Number</Key>
+  <First>2002144187</First>
+  <Last>2002144187</Last>
+  <Min>2002144187</Min>
+  <Max>2002144187</Max>
+  <Mean>2002144187</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002144187:Temperature</Key>
+  <First>68.5</First>
+  <Last>59.1</Last>
+  <Min>59.1</Min>
+  <Max>68.5</Max>
+  <Mean>62.738889</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002144187:Vac</Key>
+  <First>216.2</First>
+  <Last>214.5</Last>
+  <Min>214.2</Min>
+  <Max>216.2</Max>
+  <Mean>214.627778</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002144187:VacL1</Key>
+  <First>124.4</First>
+  <Last>123.5</Last>
+  <Min>123.1</Min>
+  <Max>124.4</Max>
+  <Mean>123.505556</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002144187:VacL2</Key>
+  <First>125.2</First>
+  <Last>124.1</Last>
+  <Min>124.0</Min>
+  <Max>125.2</Max>
+  <Mean>124.261111</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002144187:Vfan</Key>
+  <First>0.000</First>
+  <Last>0.000</Last>
+  <Min>0.000</Min>
+  <Max>0.000</Max>
+  <Mean>0.000</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002144187:Vpv</Key>
+  <First>301</First>
+  <Last>289</Last>
+  <Min>285</Min>
+  <Max>310</Max>
+  <Mean>293.722222</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002144187:Vpv-_PE</Key>
+  <First>0</First>
+  <Last>0</Last>
+  <Min>0</Min>
+  <Max>0</Max>
+  <Mean>0</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002144187:Vpv-Setpoint</Key>
+  <First>301</First>
+  <Last>289</Last>
+  <Min>286</Min>
+  <Max>309</Max>
+  <Mean>293.666667</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002144289:Backup State</Key>
+  <First>0</First>
+  <Last>0</Last>
+  <Min>0</Min>
+  <Max>0</Max>
+  <Mean>0</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002144289:Balancer</Key>
+  <First>0</First>
+  <Last>0</Last>
+  <Min>0</Min>
+  <Max>0</Max>
+  <Mean>0</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002144289:CO2 saved</Key>
+  <First>29945.818</First>
+  <Last>29946.028</Last>
+  <Min>29945.818</Min>
+  <Max>29946.028</Max>
+  <Mean>29945.942556</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002144289:Error</Key>
+  <First>0</First>
+  <Last>0</Last>
+  <Min>0</Min>
+  <Max>0</Max>
+  <Mean>0</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002144289:E-Total</Key>
+  <First>17615.179</First>
+  <Last>17615.309</Last>
+  <Min>17615.179</Min>
+  <Max>17615.309</Max>
+  <Mean>17615.257167</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002144289:Event-Cnt</Key>
+  <First>22</First>
+  <Last>22</Last>
+  <Min>22</Min>
+  <Max>22</Max>
+  <Mean>22</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002144289:Fac</Key>
+  <First>59.990</First>
+  <Last>60.000</Last>
+  <Min>59.970</Min>
+  <Max>60.000</Max>
+  <Mean>59.989444</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002144289:Grid Type</Key>
+  <First>2</First>
+  <Last>2</Last>
+  <Min>2</Min>
+  <Max>2</Max>
+  <Mean>2</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002144289:h-On</Key>
+  <First>7827.6181262094</First>
+  <Last>7827.6961817712</Last>
+  <Min>7827.6181262094</Min>
+  <Max>7827.6961817712</Max>
+  <Mean>7827.656614</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002144289:h-Total</Key>
+  <First>7516.7436568950</First>
+  <Last>7516.8217124568</Last>
+  <Min>7516.7436568950</Min>
+  <Max>7516.8217124568</Max>
+  <Mean>7516.782145</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002144289:Iac</Key>
+  <First>19.324</First>
+  <Last>6.518</Last>
+  <Min>5.050</Min>
+  <Max>19.324</Max>
+  <Mean>8.078444</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002144289:I-dif</Key>
+  <First>97</First>
+  <Last>97</Last>
+  <Min>97</Min>
+  <Max>97</Max>
+  <Mean>97</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002144289:Ipv</Key>
+  <First>14.423</First>
+  <Last>4.773</Last>
+  <Min>3.846</Min>
+  <Max>14.423</Max>
+  <Mean>6.060722</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002144289:Max Temperature</Key>
+  <First>76.7</First>
+  <Last>76.7</Last>
+  <Min>76.7</Min>
+  <Max>76.7</Max>
+  <Mean>76.7</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002144289:Max Vpv</Key>
+  <First>418</First>
+  <Last>418</Last>
+  <Min>418</Min>
+  <Max>418</Max>
+  <Mean>418</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002144289:Mode</Key>
+  <First>7</First>
+  <Last>7</Last>
+  <Min>7</Min>
+  <Max>7</Max>
+  <Mean>7</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002144289:Pac</Key>
+  <First>4162</First>
+  <Last>1392</Last>
+  <Min>1077</Min>
+  <Max>4162</Max>
+  <Mean>1729.833333</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002144289:Power On</Key>
+  <First>11581</First>
+  <Last>11581</Last>
+  <Min>11581</Min>
+  <Max>11581</Max>
+  <Mean>11581</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002144289:Serial Number</Key>
+  <First>2002144289</First>
+  <Last>2002144289</Last>
+  <Min>2002144289</Min>
+  <Max>2002144289</Max>
+  <Mean>2002144289</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002144289:Temperature</Key>
+  <First>64.1</First>
+  <Last>54.7</Last>
+  <Min>54.7</Min>
+  <Max>64.1</Max>
+  <Mean>58.238889</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002144289:Vac</Key>
+  <First>215.4</First>
+  <Last>213.5</Last>
+  <Min>213.1</Min>
+  <Max>215.4</Max>
+  <Mean>213.705556</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002144289:VacL1</Key>
+  <First>123.2</First>
+  <Last>122.1</Last>
+  <Min>121.9</Min>
+  <Max>123.2</Max>
+  <Mean>122.255556</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002144289:VacL2</Key>
+  <First>125.4</First>
+  <Last>124.4</Last>
+  <Min>124.2</Min>
+  <Max>125.4</Max>
+  <Mean>124.461111</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002144289:Vfan</Key>
+  <First>0.000</First>
+  <Last>0.000</Last>
+  <Min>0.000</Min>
+  <Max>0.000</Max>
+  <Mean>0.000</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002144289:Vpv</Key>
+  <First>300</First>
+  <Last>305</Last>
+  <Min>289</Min>
+  <Max>305</Max>
+  <Mean>296.722222</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002144289:Vpv-_PE</Key>
+  <First>0</First>
+  <Last>0</Last>
+  <Min>0</Min>
+  <Max>0</Max>
+  <Mean>0</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+<MeanPublic>
+  <Key>WR7KU009:2002144289:Vpv-Setpoint</Key>
+  <First>301</First>
+  <Last>305</Last>
+  <Min>289</Min>
+  <Max>305</Max>
+  <Mean>296.888889</Mean>
+  <Base>18</Base>
+  <Period>300</Period>
+  <TimeStamp>2014-07-28T17:05:48</TimeStamp>
+</MeanPublic>
+
+</WebBox>
